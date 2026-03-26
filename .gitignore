@@ -1,0 +1,16 @@
+# Python virtual environment
+.venv/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# OS/editor noise
+.DS_Store
+Thumbs.db
+
+# Large/generated raw artifacts (keep curated final data)
+data/filas/raw/
+data/filas/extracted/

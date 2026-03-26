@@ -1,0 +1,54 @@
+[
+  {
+    "url": "https://www.gov.br/saude/pt-br/acesso-a-informacao/sic/dados-em-transparencia-ativa",
+    "scraped_at_utc": "2026-03-26T03:44:16.499589+00:00",
+    "status_code": 200,
+    "final_url": "https://www.gov.br/saude/pt-br/acesso-a-informacao/sic/dados-em-transparencia-ativa",
+    "title": "Dados em Transparência Ativa — Ministério da Saúde",
+    "meta_description": "",
+    "canonical": "https://www.gov.br/saude/pt-br/acesso-a-informacao/sic/dados-em-transparencia-ativa",
+    "table_count": 0,
+    "csv_links_count": 0,
+    "csv_links": "",
+    "error": ""
+  },
+  {
+    "url": "https://dadosabertos.saude.gov.br/",
+    "scraped_at_utc": "2026-03-26T03:44:18.000152+00:00",
+    "status_code": 200,
+    "final_url": "https://dadosabertos.saude.gov.br/",
+    "title": "Portal de Dados Abertos do SUS",
+    "meta_description": "Portal de Dados Abertos do SUS",
+    "canonical": "",
+    "table_count": 0,
+    "csv_links_count": 0,
+    "csv_links": "",
+    "error": ""
+  },
+  {
+    "url": "https://info.saude.df.gov.br/",
+    "scraped_at_utc": "2026-03-26T03:44:20.339077+00:00",
+    "status_code": 200,
+    "final_url": "https://info.saude.df.gov.br/",
+    "title": "Portal Infosaúde",
+    "meta_description": "Bem-vindo(a) ao Portal Infosaúde. Esse é um espaço virtual criado para disponibilizar dados e informações sobre a situação da saúde no DF.",
+    "canonical": "https://info.saude.df.gov.br/",
+    "table_count": 0,
+    "csv_links_count": 0,
+    "csv_links": "",
+    "error": ""
+  },
+  {
+    "url": "https://datasus.saude.gov.br/informacoes-de-saude-tabnet/",
+    "scraped_at_utc": "2026-03-26T03:44:30.519168+00:00",
+    "status_code": 200,
+    "final_url": "https://datasus.saude.gov.br/informacoes-de-saude-tabnet/",
+    "title": "Informações de Saúde (TABNET) – DATASUS",
+    "meta_description": "",
+    "canonical": "https://datasus.saude.gov.br/informacoes-de-saude-tabnet/",
+    "table_count": 0,
+    "csv_links_count": 0,
+    "csv_links": "",
+    "error": ""
+  }
+]

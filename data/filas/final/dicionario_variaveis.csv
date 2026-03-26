@@ -1,0 +1,19 @@
+﻿variavel,tipo,descricao,exemplo
+co_anomes,inteiro,Competencia no formato AAAAMM.,202507
+co_uf,inteiro,Codigo IBGE da unidade federativa.,35
+no_municipio,texto,Nome do municipio quando granularidade for municipal.,Sao Paulo
+sg_uf,texto,Sigla da unidade federativa.,SP
+no_uf,texto,Nome da unidade federativa.,Sao Paulo
+co_regiao_brasil,inteiro,Codigo da regiao geografica brasileira.,3
+no_regiao_brasil,texto,Nome da regiao brasileira.,Sudeste
+sg_regiao_brasil,texto,Sigla da regiao brasileira.,SE
+vl_indicador_calculado_uf,numerico,Valor do indicador no nivel da UF.,18315
+vl_indicador_calculado_reg,numerico,Valor do indicador no nivel da regiao.,183322
+vl_indicador_calculado_br,numerico,Valor do indicador no nivel Brasil.,3101449
+dt_competencia,data,Data de referencia da competencia do indicador.,2025-07-01
+dt_atualizacao,datahora,Data e hora da ultima atualizacao do registro.,2026-02-28 03:06:44
+ds_unidade_medida,texto,Descricao da unidade de medida do indicador.,Numero
+sg_granularidade,texto,Sigla do nivel de agregacao territorial.,UF
+ds_granularidade,texto,Descricao do nivel de agregacao territorial.,Unidade Federativa
+indicador,categorica,"Serie analitica de origem: previstas, realizadas ou rol PATE.",cirurgias_realizadas_programa
+arquivo_origem,texto,Caminho do CSV de origem dentro da estrutura extraida.,.../pnrfcirrea.csv

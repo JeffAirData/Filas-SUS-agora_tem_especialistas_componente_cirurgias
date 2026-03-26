@@ -1,0 +1,10 @@
+﻿metrica,indicador,valor,periodo_referencia,descricao
+volume_total_uf_no_periodo,cirurgias_previstas_programa,22553944.0,historico_disponivel,Soma de vl_indicador_calculado_uf em todas as competencias disponiveis.
+volume_total_uf_no_periodo,cirurgias_realizadas_programa,51704716.0,historico_disponivel,Soma de vl_indicador_calculado_uf em todas as competencias disponiveis.
+volume_total_uf_no_periodo,procedimentos_eletivos_rol_pate,66845845.0,historico_disponivel,Soma de vl_indicador_calculado_uf em todas as competencias disponiveis.
+previstas_brasil_competencia_mais_recente,cirurgias_previstas_programa,1255697.0,2025-07,Valor Brasil do indicador de cirurgias previstas na competencia mais recente.
+realizadas_brasil_competencia_mais_recente,cirurgias_realizadas_programa,2449939.0,2025-07,Valor Brasil do indicador de cirurgias realizadas na competencia mais recente.
+rol_pate_brasil_competencia_mais_recente,procedimentos_eletivos_rol_pate,3101449.0,2025-07,Valor Brasil do indicador de procedimentos eletivos do rol PATE na competencia mais recente.
+taxa_execucao_realizadas_sobre_previstas,comparativo_previstas_realizadas,1.9510590532588674,2025-07,Razao entre realizadas e previstas na competencia mais recente.
+gap_previstas_menos_realizadas,comparativo_previstas_realizadas,-1194242.0,2025-07,Diferenca entre cirurgias previstas e realizadas no Brasil na competencia mais recente.
+participacao_rol_pate_sobre_realizadas,comparativo_rol_vs_realizadas,1.2659290700707242,2025-07,Participacao do rol PATE sobre o total de cirurgias realizadas na competencia mais recente.
