@@ -1,4 +1,4 @@
-# Filas SUS - Pipeline de Coleta, Curadoria e Base Analitica
+# Como Reduzir Filas no SUS - Pipeline de Coleta, Curadoria e Base Analitica
 
 Projeto em Python para descoberta, coleta e consolidacao de dados do Programa Agora Tem Especialistas (Componente Cirurgias), com foco em gerar uma base final pronta para analise e Power BI.
 
@@ -121,7 +121,7 @@ Arquivos mais importantes para consumo:
 - `data/filas/final/medidas_dax.md`: medidas sugeridas em DAX.
 
 ## Acesso ao BI [Link Dashboard]:
-(...)
+(https://app.powerbi.com/groups/me/reports/4eefb0bb-2ad6-402d-99a3-26d83da3503d/f38f12716d4efc0600ed?experience=power-bi)
 
 
 ## Rastreabilidade da fonte
