@@ -133,6 +133,32 @@ Para identificar origem institucional e recurso baixado:
 - `data/filas/analytical_datasets.csv` (coluna `dataset_url`)
 - `data/filas/downloads.csv` (coluna `resource_url`)
 
+## Licenciamento e uso
+
+### Codigo deste repositorio
+
+- Recomenda-se publicar o codigo sob licenca MIT (arquivo `LICENSE`).
+- Isso permite uso, copia, modificacao e distribuicao, com manutencao do aviso de copyright.
+
+### Dados publicos de terceiros
+
+- Os dados utilizados neste projeto sao obtidos de fontes institucionais publicas.
+- Este repositorio nao relicencia os dados de origem como propriedade propria.
+- O uso dos dados deve respeitar os termos oficiais das fontes publicadoras.
+- Sempre valide restricoes, atualizacoes e notas metodologicas no portal oficial.
+
+### Atribuicao recomendada (texto pronto)
+
+Use o modelo abaixo quando publicar derivacoes deste projeto:
+
+"Este trabalho reutiliza codigo do projeto Filas SUS - Pipeline de Coleta, Curadoria e Base Analitica e dados publicos institucionais de saude. As regras de uso dos dados seguem os termos da fonte oficial."
+
+## Colaboracao e forks
+
+- O repositorio pode ser publico para consulta e reproducao.
+- Contribuicoes por terceiros podem ser desabilitadas no fluxo de manutencao do projeto.
+- Usuarios podem fazer fork/copia para uso proprio, respeitando a licenca do codigo e os termos dos dados.
+
 ## Observacoes
 
 - O foco atual e manter apenas fontes de alta relevancia para reduzir ruido analitico.
