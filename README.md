@@ -110,6 +110,9 @@ python src/main.py
 python src/tools/build_final_analytical_table.py
 ```
 
+<img width="1600" height="675" alt="image" src="https://github.com/user-attachments/assets/8738aa04-91db-46ed-8158-33807098d80d" />
+
+
 ## Saidas para analise e BI
 
 Arquivos mais importantes para consumo:
@@ -122,6 +125,15 @@ Arquivos mais importantes para consumo:
 
 ## Acesso ao BI [Link Dashboard]:
 (https://app.powerbi.com/groups/me/reports/4eefb0bb-2ad6-402d-99a3-26d83da3503d/f38f12716d4efc0600ed?experience=power-bi)
+
+
+## Conclusão à primeira vista
+
+Vemos por exemplo nos gráficos que o número de cirurgias por região e UF aumentam do início de janeiro num crescente até o final do ano em dezembro, voltando a diminuir no início de janeiro do próximo ano. E que as cirurgias realizadas e eletivas ultrapassam as planejadas no decorrer do ano. E mais, percebemos que para este corte a tendência é sempre pelo aumento do número de cirurgias elevando também a proporção horasmédicos* , sendo necessário o aumento desses profissionais a cada ano (talvez devido ao aumento da população, os fatores precisam de uma análise mais aprofundada para uma conclusão tão abrangente, mas já é um indício).
+
+*horasmédicos : neologismo aplicado a quantidade de horas que um certo número de profissionais da saúde necessita para executar uma tarefa.
+
+<img width="1600" height="675" alt="image" src="https://github.com/user-attachments/assets/a1f65e43-f87a-4c7c-83d3-0c995b0f173c" />
 
 
 ## Rastreabilidade da fonte
