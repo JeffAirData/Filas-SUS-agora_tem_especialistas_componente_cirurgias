@@ -2,6 +2,11 @@
 
 Projeto em Python para descoberta, coleta e consolidacao de dados do Programa Agora Tem Especialistas (Componente Cirurgias), com foco em gerar uma base final pronta para analise e Power BI.
 
+O projeto surgiu como uma busca webscraping por dados acerca de filas no SUS - Brasil - e como a maioria desses dados são sensíveis, vez que seu compartilhamento pode ferir normas éticas, definiu-se em certo momento o uso dos dados disponibilizados pelo Programa em um corte bem definido que é a previsão e realização de cirurgias. Certo de que a publicizacao destes dados não ferem a LGPD e podem ser utilizados como dados anônimos.
+
+Outros cortes poderão surgir, outra vez que, o projeto de mentoria Fiocruz está no início e poderemos ainda falar muito sobre filas no SUS, na tentativa de, senão acabar com o problema, ao menos contribuir com a melhora do sistema.
+
+
 ## Objetivo
 
 Transformar a coleta bruta em uma esteira analitica reproduzivel:
