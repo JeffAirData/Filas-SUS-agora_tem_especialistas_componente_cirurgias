@@ -120,16 +120,9 @@ Arquivos mais importantes para consumo:
 - `data/filas/final/dicionario_variaveis.csv`: definicao dos campos.
 - `data/filas/final/medidas_dax.md`: medidas sugeridas em DAX.
 
-## Publicacao do BI (arquivo no OneDrive)
+## Acesso ao BI [Link Dashboard]:
+(...)
 
-Se o arquivo `.pbix` esta no OneDrive, o fluxo recomendado e:
-
-1. Abrir o arquivo `.pbix` no Power BI Desktop (direto da pasta sincronizada do OneDrive).
-2. Conferir que a origem aponta para `tabela_powerbi.csv` atualizada.
-3. Clicar em `Publicar` e escolher o workspace no Power BI Service.
-4. No Power BI Service, abrir o dataset e configurar `Atualizacao agendada`.
-5. Se o CSV tambem ficar no OneDrive/SharePoint, usar credenciais OAuth da conta organizacional para refresh.
-6. Validar no Service se os visuais batem com os indicadores esperados (previstas, realizadas, gap e taxa de execucao).
 
 ## Rastreabilidade da fonte
 
