@@ -1,7 +1,7 @@
 [
   {
     "url": "https://www.gov.br/saude/pt-br/acesso-a-informacao/sic/dados-em-transparencia-ativa",
-    "scraped_at_utc": "2026-03-26T03:44:16.499589+00:00",
+    "scraped_at_utc": "2026-03-26T14:12:49.931161+00:00",
     "status_code": 200,
     "final_url": "https://www.gov.br/saude/pt-br/acesso-a-informacao/sic/dados-em-transparencia-ativa",
     "title": "Dados em Transparência Ativa — Ministério da Saúde",
@@ -14,7 +14,7 @@
   },
   {
     "url": "https://dadosabertos.saude.gov.br/",
-    "scraped_at_utc": "2026-03-26T03:44:18.000152+00:00",
+    "scraped_at_utc": "2026-03-26T14:12:53.631954+00:00",
     "status_code": 200,
     "final_url": "https://dadosabertos.saude.gov.br/",
     "title": "Portal de Dados Abertos do SUS",
@@ -27,7 +27,7 @@
   },
   {
     "url": "https://info.saude.df.gov.br/",
-    "scraped_at_utc": "2026-03-26T03:44:20.339077+00:00",
+    "scraped_at_utc": "2026-03-26T14:12:55.166219+00:00",
     "status_code": 200,
     "final_url": "https://info.saude.df.gov.br/",
     "title": "Portal Infosaúde",
@@ -40,7 +40,7 @@
   },
   {
     "url": "https://datasus.saude.gov.br/informacoes-de-saude-tabnet/",
-    "scraped_at_utc": "2026-03-26T03:44:30.519168+00:00",
+    "scraped_at_utc": "2026-03-26T14:13:08.098938+00:00",
     "status_code": 200,
     "final_url": "https://datasus.saude.gov.br/informacoes-de-saude-tabnet/",
     "title": "Informações de Saúde (TABNET) – DATASUS",
