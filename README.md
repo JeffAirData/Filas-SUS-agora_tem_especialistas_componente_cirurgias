@@ -124,8 +124,7 @@ Arquivos mais importantes para consumo:
 - `data/filas/final/medidas_dax.md`: medidas sugeridas em DAX.
 
 ## Acesso ao BI [Link Dashboard]:
-(<iframe title="Programa Agora Tem Especialistas - Cirurgias" width="600" height="373.5" src="https://app.powerbi.com/view?r=eyJrIjoiMDc4YTA5ZDYtMmMyNC00ZjIwLTlhYzctYmFiNmFjNmMzZWE4IiwidCI6ImJjMzcyMWE2LTgwNjEtNGUxOS1hM2I0LTMxZTIwOTNlMjA5YSJ9" frameborder="0" allowFullScreen="true"></iframe>)
-
+[https://app.powerbi.com/view?r=eyJrIjoiMDc4YTA5ZDYtMmMyNC00ZjIwLTlhYzctYmFiNmFjNmMzZWE4IiwidCI6ImJjMzcyMWE2LTgwNjEtNGUxOS1hM2I0LTMxZTIwOTNlMjA5YSJ9]
 
 <img width="1600" height="675" alt="image" src="https://github.com/user-attachments/assets/a1f65e43-f87a-4c7c-83d3-0c995b0f173c" />
 
